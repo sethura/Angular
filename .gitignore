@@ -1,0 +1,44 @@
+# compiled output
+*/dist
+*/tmp
+
+# dependencies
+*/.meteor/local
+*/node_modules
+*/bower_components
+
+# IDEs and editors
+*/.idea
+*/.vscode
+*/.project
+*/.classpath
+*/.launch
+*/.settings/
+*/.tmp/
+*/.versions/
+
+# misc
+*/.sass-cache
+*/connect.lock
+*/coverage/*
+*/libpeerconnection.log
+*/npm-debug.log
+*/testem.log
+*/typings
+*/www
+*/hooks
+*/platforms
+*/plugins
+
+# e2e
+*/e2e/*.js
+*/e2e/*.map
+
+#System Files
+.DS_Store
+Thumbs.db
+
+*/*.log
+*/*.tmp
+*/*.tmp.*
+*/log.txt
