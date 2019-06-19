@@ -16,4 +16,4 @@ A collection of projects built on the Angular Framework, using the Angular CLI a
 For Angular apps, follow Angular CLI - Express build setup. For Ionic use Ionic CLI to serve/deploy
 
 ## Screenshots
-[WIP]
+[Work in Progress]
